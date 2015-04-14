@@ -3,6 +3,18 @@ body {
 	overflow: hidden;
 }
 
+header {
+	text-shadow: 2px 2px 3px #000000;
+	background-color: black;
+    margin: 0;
+    height: 0;
+    text-align: center;
+    position: relative;
+    font-size:25px;
+    padding: 1px 1px;
+    font-weight: bold;    
+}
+
 .img-responsive {
 	max-width: 100%;
 	height: auto;
